@@ -35,9 +35,9 @@ private String identification;
 
 private String name;
 
-private Date birthtDay;
+//private Date birthtDay;
 
-private String monthBirthtDay;
+//private String monthBirthtDay;
 
 private String address;
 
